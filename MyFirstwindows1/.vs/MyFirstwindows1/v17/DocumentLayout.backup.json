@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\textbooks for fall 2025\\c\u002B\u002B\\MyFirstwindows1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90336029-0E26-4359-86B5-1ADE5364E72E}|MyFirstwindows1.csproj|c:\\users\\owner\\documents\\textbooks for fall 2025\\c\u002B\u002B\\myfirstwindows1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90336029-0E26-4359-86B5-1ADE5364E72E}|MyFirstwindows1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90336029-0E26-4359-86B5-1ADE5364E72E}|MyFirstwindows1.csproj|c:\\users\\owner\\documents\\textbooks for fall 2025\\c\u002B\u002B\\myfirstwindows1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90336029-0E26-4359-86B5-1ADE5364E72E}|MyFirstwindows1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\textbooks for fall 2025\\c\u002B\u002B\\MyFirstwindows1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\textbooks for fall 2025\\c\u002B\u002B\\MyFirstwindows1\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAtwBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:35:24.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\textbooks for fall 2025\\c\u002B\u002B\\MyFirstwindows1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\textbooks for fall 2025\\c\u002B\u002B\\MyFirstwindows1\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:24:23.264Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

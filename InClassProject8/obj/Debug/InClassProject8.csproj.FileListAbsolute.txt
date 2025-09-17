@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\InClassProject8\bin\Debug\InClassProject8.exe.config
+C:\Users\Owner\source\repos\InClassProject8\bin\Debug\InClassProject8.exe
+C:\Users\Owner\source\repos\InClassProject8\bin\Debug\InClassProject8.pdb
+C:\Users\Owner\source\repos\InClassProject8\obj\Debug\InClassProject8.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\InClassProject8\obj\Debug\InClassProject8.Form1.resources
+C:\Users\Owner\source\repos\InClassProject8\obj\Debug\InClassProject8.Properties.Resources.resources
+C:\Users\Owner\source\repos\InClassProject8\obj\Debug\InClassProject8.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\InClassProject8\obj\Debug\InClassProject8.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\InClassProject8\obj\Debug\InClassProject8.exe
+C:\Users\Owner\source\repos\InClassProject8\obj\Debug\InClassProject8.pdb
+C:\Users\Owner\source\repos\InClassProject8\obj\Debug\InClassProject8.exe.config

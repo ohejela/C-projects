@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\InClassProject4\bin\Debug\InClassProject4.exe.config
+C:\Users\Owner\source\repos\InClassProject4\bin\Debug\InClassProject4.exe
+C:\Users\Owner\source\repos\InClassProject4\bin\Debug\InClassProject4.pdb
+C:\Users\Owner\source\repos\InClassProject4\obj\Debug\InClassProject4.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\InClassProject4\obj\Debug\InClassProject4.Form1.resources
+C:\Users\Owner\source\repos\InClassProject4\obj\Debug\InClassProject4.Properties.Resources.resources
+C:\Users\Owner\source\repos\InClassProject4\obj\Debug\InClassProject4.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\InClassProject4\obj\Debug\InClassProject4.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\InClassProject4\obj\Debug\InClassProject4.exe
+C:\Users\Owner\source\repos\InClassProject4\obj\Debug\InClassProject4.pdb
+C:\Users\Owner\source\repos\InClassProject4\obj\Debug\InClassProject4.exe.config

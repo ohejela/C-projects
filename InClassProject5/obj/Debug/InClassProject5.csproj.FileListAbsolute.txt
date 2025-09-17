@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\InClassProject5\bin\Debug\InClassProject5.exe.config
+C:\Users\Owner\source\repos\InClassProject5\bin\Debug\InClassProject5.exe
+C:\Users\Owner\source\repos\InClassProject5\bin\Debug\InClassProject5.pdb
+C:\Users\Owner\source\repos\InClassProject5\obj\Debug\InClassProject5.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\InClassProject5\obj\Debug\InClassProject5.Form1.resources
+C:\Users\Owner\source\repos\InClassProject5\obj\Debug\InClassProject5.Properties.Resources.resources
+C:\Users\Owner\source\repos\InClassProject5\obj\Debug\InClassProject5.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\InClassProject5\obj\Debug\InClassProject5.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\InClassProject5\obj\Debug\InClassProject5.exe
+C:\Users\Owner\source\repos\InClassProject5\obj\Debug\InClassProject5.pdb
+C:\Users\Owner\source\repos\InClassProject5\obj\Debug\InClassProject5.exe.config
